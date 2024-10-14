@@ -15,4 +15,6 @@
     <a href="https://github.com/dunsuite/dunsuite/issues">Feedback</a>
     ·
     <a href="https://dunsuite.com/waitlist">Waitlist</a>
+    .
+    <a href="https://discord.gg/BT4zuUrM">Join discord community</a>
   </p>
