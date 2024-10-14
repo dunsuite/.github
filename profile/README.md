@@ -16,5 +16,5 @@
     ·
     <a href="https://dunsuite.com/waitlist">Waitlist</a>
     .
-    <a href="https://discord.gg/BT4zuUrM">Join discord community</a>
+    <a href="https://discord.gg/BT4zuUrM">Join Discord Community</a>
   </p>
